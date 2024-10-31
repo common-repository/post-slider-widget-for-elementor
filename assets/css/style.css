@@ -1,0 +1,27 @@
+.tc_navigation:after {
+    content: "" !important;
+}
+
+
+.tc_sing_blog h3 {
+    margin: 5px 0;
+}
+.tc_sing_blog p {
+    margin: 5px 0;
+}
+
+.tc_navigation {
+    background-image: none !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tc_blg_btn{
+	display: inline-block !important;
+}
+
+
+
+.tc_post_thumbnail img{
+	object-fit: cover;
+}
